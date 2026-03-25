@@ -1,3 +1,7 @@
+
+Here i try to reverse the default flow of the react data transfering through props
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
